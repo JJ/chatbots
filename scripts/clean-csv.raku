@@ -5,7 +5,6 @@ use Text::CSV;
 my @data = csv(in => "data/estudiantes-edubots.csv",
                headers => "auto"); # as array of hashes
 
-
 my @clean-data;
 my %keys;
 for @data -> %d {
