@@ -13,7 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 :root {
   --background-color: #f7f3de;
   --main-font: Lato, sans-serif;
-  --main-font-size: 40px;
+  --main-font-size: 32px;
   --main-color: #333;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
