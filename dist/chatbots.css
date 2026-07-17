@@ -13,7 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 :root {
   --background-color: #f7f3de;
   --main-font: Lato, sans-serif;
-  --main-font-size: 24px;
+  --main-font-size: 20px;
   --main-color: #333;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
@@ -85,11 +85,11 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal h1 {
     font-family: 'Trispace', sans-serif;
-    font-size: 2.75em;
+    font-size: 2.35em;
 }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 2em; }
 
 .reveal h3 {
   font-size: 1.55em; }
